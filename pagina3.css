@@ -48,7 +48,7 @@ h1 {
     font-size: 5em;
 }
 
-div{
+.logo{
     display: flex;
     justify-content: center;
 }
@@ -79,6 +79,13 @@ h1{
     justify-content: center;
     margin-top: 190px;   
     height: 500px;
+}
+
+div.trabalhos{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 130px;
 }
 
 footer{
