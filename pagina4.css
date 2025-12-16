@@ -53,17 +53,25 @@ div{
     justify-content: center;
 }
 
-h2{
+main h2{
     text-align: center;
     margin-top: 120px;
     font-size: 2em;
+    margin-left: 100px;
 }
 
-.main{
-    display: flex;
-    justify-content: center;
-    background-color: rgb(255, 255, 255);
-    height: 100px;;
+main h3{
+    text-align: center;
+    margin-top: 120px;
+    font-size: 2em;
+    margin-left: 100px;
+}
+
+main h4{
+    text-align: center;
+    margin-top: 120px;
+    font-size: 2em;
+    margin-left: 100px;
 }
 
 .card{
@@ -78,7 +86,7 @@ h2{
 footer{
     display: flex;
     justify-content: right;
-    margin-top: 295px;
+    margin-top: 612px;
     height: 100px;
     align-items: center;
     background-color: rgb(0, 0, 0);
